@@ -9,7 +9,7 @@
             </div>
             <div>
                 <span>
-                    <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：【放hr的邮箱地址npm润dev】</span>qbm@dataware-system.com</span>
+                    <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱：</span>qbm@dataware-system.com</span>
             </div>
             <div>
                 <span>

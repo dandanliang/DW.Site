@@ -98,7 +98,7 @@ export default new Router({
                     redirect: "solutionsk"
                 }, {
                     path: "itfw",
-                    name: "IT",
+                    name: "IT外包服务",
                     component: itfw
                 },
                 {
@@ -109,11 +109,11 @@ export default new Router({
 
                 {
                     path: "datacenter",
-                    name: "data",
+                    name: "解决方案提供商",
                     component: datacenter
                 }, {
                     path: "system",
-                    name: "system",
+                    name: "信息系统集成",
                     component: system
                 }
             ]

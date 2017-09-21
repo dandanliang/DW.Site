@@ -1,15 +1,5 @@
 <template>
   <div id="app">
-    <!-- <div class="topbar">
-                                                                        <div>
-                                                                            <a href="tel:021-31185118">
-                                                                              <i class="el-icon-message"></i>021-31185118
-                                                                            </a>
-                                                                            <a href="mailto://yhf@dataware-system.com">
-                                                                              <i class="el-icon-message"></i>yhf@dataware-system.com
-                                                                            </a>
-                                                                          </div>
-                                                                      </div> -->
     <div class="nav">
       <div style='width: 1000px;margin: 0 auto;'>
         <div class="logo"><img src="./assets/img/logo5.png" style='height:50px;' alt="斗文科技"></div>
@@ -17,16 +7,16 @@
           <el-menu-item class="menu-right" index="/contact">联系我们</el-menu-item>
           <el-menu-item class="menu-right" index="/joinus">加入我们</el-menu-item>
           <!-- <el-menu-item class="menu-right" index="/jjcg/cases">成功案例</el-menu-item>
-                                                                          <el-menu-item class="menu-right" index="/jjcg/solutions">解决方案</el-menu-item> -->
+                                                                            <el-menu-item class="menu-right" index="/jjcg/solutions">解决方案</el-menu-item> -->
           <el-menu-item class="menu-right" index="/success">成功案例</el-menu-item>
           <el-menu-item class="menu-right" index="/solutionsk/itfw">解决方案</el-menu-item>
           <!-- <el-submenu class="menu-right" index="/about">
-                                      <template slot="title">解决方案</template>
-                                      <el-menu-item class="menu-left" index="/solutionsk/itfw">IT服务</el-menu-item>
-                                      <el-menu-item class="menu-left" index="/solutionsk/znh">建筑智能化</el-menu-item>
-                                      <el-menu-item class="menu-left" index="/solutionsk/datacenter">数据中心机房</el-menu-item>
-                                      <el-menu-item class="menu-left" index="/solutionsk/system">信息系统集成</el-menu-item>
-                                    </el-submenu> -->
+                                        <template slot="title">解决方案</template>
+                                        <el-menu-item class="menu-left" index="/solutionsk/itfw">IT服务</el-menu-item>
+                                        <el-menu-item class="menu-left" index="/solutionsk/znh">建筑智能化</el-menu-item>
+                                        <el-menu-item class="menu-left" index="/solutionsk/datacenter">数据中心机房</el-menu-item>
+                                        <el-menu-item class="menu-left" index="/solutionsk/system">信息系统集成</el-menu-item>
+                                      </el-submenu> -->
           <el-submenu class="menu-right" index="/about">
             <template slot="title">公司介绍</template>
             <el-menu-item class="menu-left" index="/info/about">关于斗文</el-menu-item>
@@ -81,6 +71,7 @@ export default {
 .clearfix {
   zoom: 1;
 }
+
 
 
 
