@@ -210,9 +210,7 @@ export default {
 
 .qyimg {
     width: 300px;
-<<<<<<< HEAD
-    float:right;
-=======
+
     float: left;
     box-sizing: border-box;
 }
@@ -224,7 +222,7 @@ export default {
 
 .mc .fl p {
     line-height: 30px;
->>>>>>> cfd6ac38301b293f2bed6da1f6f4e9b74b66f44a
+
 }
 
 .boxmore {
