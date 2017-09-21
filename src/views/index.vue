@@ -188,7 +188,8 @@ export default {
 </script>
 <style scoped>
 .qyimg {
-    width: 400px;
+    width: 300px;
+    float:right;
 }
 
 .boxmore {
