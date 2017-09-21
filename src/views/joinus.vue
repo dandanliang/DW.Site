@@ -95,6 +95,12 @@ export default {
     line-height: 30px;
 }
 
+.joinus h1 {
+    font-size: 20px;
+
+    padding: 0 22px 0;
+}
+
 .w-min {
     background: #e5e5e5;
     float: left;

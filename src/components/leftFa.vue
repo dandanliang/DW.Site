@@ -12,7 +12,9 @@ export default {
             tabs: [
                 { title: "IT外包服务", path: "/solutionsk/itfw" },
                 { title: "建筑智能化", path: "/solutionsk/znh" },
-                { title: "数据中心机房", path: "/solutionsk/datacenter" },
+                { title: "解决方案提供商", path: "/solutionsk/datacenter" },
+                // { title: "数据中心机房", path: "/solutionsk/datacenter" },
+
                 { title: "信息系统集成", path: "/solutionsk/system" },
 
             ]
